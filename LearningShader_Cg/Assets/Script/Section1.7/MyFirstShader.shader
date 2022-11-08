@@ -1,7 +1,8 @@
 Shader "Holistic/HelloShader"{
 
     Properties{
-        _myColor = ("Example Color", Color) = (1, 1, 1, 1);
+        _myColor ("Example Color", Color) = (1, 1, 1, 1)
+        _myEmission ("Example Emission", Color) = (1, 1, 1, 1)
     }
 
     SubShader{
@@ -14,9 +15,11 @@ Shader "Holistic/HelloShader"{
             };
 
             fixed4 _myColor;
+            fixed4 _myEmission;
 
             void surf (Input IN, inout SurfaceOutput o){
                 o.Albedo = _myColor.rgb;
+                o.Emission = _myEmission.rgb;
             }
 
         ENDCG
