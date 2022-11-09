@@ -17,7 +17,7 @@ Shader "Holistic/AllProps"{
             fixed4 _myColor;
             half _myRange;
             sampler2D _myTex;
-            samplerCUBE _myCUBE;
+            samplerCUBE _myCube;
             float _myFloat;
             float4 _myVector;
 
@@ -28,6 +28,7 @@ Shader "Holistic/AllProps"{
 
             void surf (Input IN, inout SurfaceOutput o){
                 o.Albedo = (tex2D(_myTex, IN.uv_myTex) * _myRange).rgb;
+                o.Emission = texCUBE(_myCube, IN.worldRefl).rgb;
             }
 
         ENDCG
