@@ -10,3 +10,6 @@ A place to store projects and code used in studying shaders with Cg.
 ### Diffuse texture only (left), Diffuse texture with normal map (right)  
 ![タイトルなし](https://user-images.githubusercontent.com/66341676/201056410-ca999ce8-18d9-44a8-b765-736cb2702747.png)  
   
+### Albedo = Normal, Flat shading model (left), Phone shading model (right)  
+https://user-images.githubusercontent.com/66341676/201099839-c4a50aa1-d330-48fc-bb46-28623f423488.mp4  
+  
