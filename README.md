@@ -13,3 +13,6 @@ A place to store projects and code used in studying shaders with Cg.
 ### Albedo = Normal, Flat shading model (left), Phone shading model (right)  
 https://user-images.githubusercontent.com/66341676/201099839-c4a50aa1-d330-48fc-bb46-28623f423488.mp4  
   
+### Bumped environment (2D bump texture + world reflection)
+https://user-images.githubusercontent.com/66341676/201260392-0c8c26de-844f-40c0-8b5d-f82e34c7f7ff.mp4  
+  
