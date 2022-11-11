@@ -26,7 +26,7 @@ RenderSettings:
   m_AmbientIntensity: 1
   m_AmbientMode: 0
   m_SubtractiveShadowColor: {r: 0.42, g: 0.478, b: 0.627, a: 1}
-  m_SkyboxMaterial: {fileID: 10652, guid: 0000000000000000f000000000000000, type: 0}
+  m_SkyboxMaterial: {fileID: 10302, guid: 0000000000000000f000000000000000, type: 0}
   m_HaloStrength: 0.5
   m_FlareStrength: 1
   m_FlareFadeSpeed: 3
@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 287520949}
-  m_IndirectSpecularColor: {r: 0.000026343681, g: 0.0000151032655, b: 0.000002417003, a: 1}
+  m_IndirectSpecularColor: {r: 0.6184907, g: 0.6184907, b: 0.70182395, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -151,6 +151,10 @@ PrefabInstance:
     - target: {fileID: 100002, guid: ab87656b784a18346a7b1f15b3e7b020, type: 3}
       propertyPath: m_Name
       value: Zombunny (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100002, guid: ab87656b784a18346a7b1f15b3e7b020, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: ab87656b784a18346a7b1f15b3e7b020, type: 3}
       propertyPath: m_RootOrder
@@ -307,6 +311,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Zombunny (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 100002, guid: 8d5d219e0922649ebad407ab0e56b446, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: 8d5d219e0922649ebad407ab0e56b446, type: 3}
       propertyPath: m_RootOrder
       value: 3
@@ -367,6 +375,10 @@ PrefabInstance:
     - target: {fileID: 100002, guid: 8d5d219e0922649ebad407ab0e56b446, type: 3}
       propertyPath: m_Name
       value: Zombunny
+      objectReference: {fileID: 0}
+    - target: {fileID: 100002, guid: 8d5d219e0922649ebad407ab0e56b446, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: 8d5d219e0922649ebad407ab0e56b446, type: 3}
       propertyPath: m_RootOrder
@@ -512,8 +524,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1151793392}
-  m_LocalRotation: {x: 0.16245183, y: 0.013333116, z: -0.002546289, w: 0.9866231}
-  m_LocalPosition: {x: 3.647758, y: 0.7783451, z: -1.8520622}
+  m_LocalRotation: {x: 0.19914506, y: 0.04261079, z: -0.009021441, w: 0.97900164}
+  m_LocalPosition: {x: 7.5293612, y: 0.87252617, z: -1.7420006}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -530,6 +542,10 @@ PrefabInstance:
     - target: {fileID: 100002, guid: aab8ac8b4685f5649978adbce473b13d, type: 3}
       propertyPath: m_Name
       value: FlatZombunny
+      objectReference: {fileID: 0}
+    - target: {fileID: 100002, guid: aab8ac8b4685f5649978adbce473b13d, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: aab8ac8b4685f5649978adbce473b13d, type: 3}
       propertyPath: m_RootOrder
@@ -591,6 +607,10 @@ PrefabInstance:
     - target: {fileID: 100002, guid: ab87656b784a18346a7b1f15b3e7b020, type: 3}
       propertyPath: m_Name
       value: Zombunny (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100002, guid: ab87656b784a18346a7b1f15b3e7b020, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: ab87656b784a18346a7b1f15b3e7b020, type: 3}
       propertyPath: m_RootOrder
