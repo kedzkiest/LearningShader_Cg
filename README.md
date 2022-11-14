@@ -19,3 +19,6 @@ https://user-images.githubusercontent.com/66341676/201260392-0c8c26de-844f-40c0-
 ### Rim lighting expressed using dot product and power functions
 ![タイトルなし](https://user-images.githubusercontent.com/66341676/201645769-aaabdeab-3482-4ca6-a1bd-f1f01d05de90.png)  
   
+### Rim lighting and coloring with y-coordinate  
+https://user-images.githubusercontent.com/66341676/201661993-34e7712f-9422-4fec-abc1-0e98ef8eea2b.mp4  
+  
