@@ -16,3 +16,6 @@ https://user-images.githubusercontent.com/66341676/201099839-c4a50aa1-d330-48fc-
 ### Bumped environment (2D bump texture + world reflection)
 https://user-images.githubusercontent.com/66341676/201260392-0c8c26de-844f-40c0-8b5d-f82e34c7f7ff.mp4  
   
+### Rim lighting expressed using dot product and power functions
+![タイトルなし](https://user-images.githubusercontent.com/66341676/201645769-aaabdeab-3482-4ca6-a1bd-f1f01d05de90.png)  
+  
