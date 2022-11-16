@@ -25,3 +25,6 @@ https://user-images.githubusercontent.com/66341676/201661993-34e7712f-9422-4fec-
 ### Simulate specular reflection using Blinn-Phong lighting model  
 ![タイトルなし](https://user-images.githubusercontent.com/66341676/202079631-8acace23-8d01-48db-ab62-7577655c33dd.png)  
   
+### Recreation of Standard PBR shader (left), Standard Specular PBR shader (right)  
+![タイトルなし](https://user-images.githubusercontent.com/66341676/202087283-ae3c5a75-c958-4eaf-b25d-805ccca8a54e.png)  
+  
