@@ -28,3 +28,6 @@ https://user-images.githubusercontent.com/66341676/201661993-34e7712f-9422-4fec-
 ### Recreation of Standard PBR shader (left), Standard Specular PBR shader (right)  
 ![タイトルなし](https://user-images.githubusercontent.com/66341676/202087283-ae3c5a75-c958-4eaf-b25d-805ccca8a54e.png)  
   
+### Making original lighting model (toon shading)  
+https://user-images.githubusercontent.com/66341676/202129176-3087b843-2ee2-4604-9681-e5167dce1dd7.mp4  
+  
