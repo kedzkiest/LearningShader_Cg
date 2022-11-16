@@ -22,3 +22,6 @@ https://user-images.githubusercontent.com/66341676/201260392-0c8c26de-844f-40c0-
 ### Rim lighting and coloring with y-coordinate  
 https://user-images.githubusercontent.com/66341676/201661993-34e7712f-9422-4fec-abc1-0e98ef8eea2b.mp4  
   
+### Simulate specular reflection using Blinn-Phong lighting model  
+![タイトルなし](https://user-images.githubusercontent.com/66341676/202079631-8acace23-8d01-48db-ab62-7577655c33dd.png)  
+  
