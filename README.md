@@ -31,3 +31,7 @@ https://user-images.githubusercontent.com/66341676/201661993-34e7712f-9422-4fec-
 ### Making original lighting model (toon shading)  
 https://user-images.githubusercontent.com/66341676/202129176-3087b843-2ee2-4604-9681-e5167dce1dd7.mp4  
   
+### Hologram effect using rim lighting and alpha channel  
+![タイトルなし](https://user-images.githubusercontent.com/66341676/202655614-d82011b0-1726-4e5b-9e26-dd8cab01c890.png)  
+  
+
