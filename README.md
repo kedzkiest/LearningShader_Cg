@@ -34,4 +34,6 @@ https://user-images.githubusercontent.com/66341676/202129176-3087b843-2ee2-4604-
 ### Hologram effect using rim lighting and alpha channel  
 ![タイトルなし](https://user-images.githubusercontent.com/66341676/202655614-d82011b0-1726-4e5b-9e26-dd8cab01c890.png)  
   
-
+### Blending of background and texture  
+![タイトルなし](https://user-images.githubusercontent.com/66341676/202830240-3b5aa243-1842-444d-bfb0-b4cc9adf5d01.png)  
+  
