@@ -37,3 +37,6 @@ https://user-images.githubusercontent.com/66341676/202129176-3087b843-2ee2-4604-
 ### Blending of background and texture  
 ![タイトルなし](https://user-images.githubusercontent.com/66341676/202830240-3b5aa243-1842-444d-bfb0-b4cc9adf5d01.png)  
   
+### Using Stencil Buffer to see through  
+https://user-images.githubusercontent.com/66341676/202832312-f98c9053-11c4-443b-a4b9-9c1e44e1ec15.mp4  
+  
