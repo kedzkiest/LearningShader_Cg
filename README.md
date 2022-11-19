@@ -40,3 +40,6 @@ https://user-images.githubusercontent.com/66341676/202129176-3087b843-2ee2-4604-
 ### Using Stencil Buffer to see through  
 https://user-images.githubusercontent.com/66341676/202832312-f98c9053-11c4-443b-a4b9-9c1e44e1ec15.mp4  
   
+### Using Stencil Buffer to make an object visible only from one side  
+https://user-images.githubusercontent.com/66341676/202835166-b843a468-becf-4efa-9f0d-5fe572e79f05.mp4  
+  
