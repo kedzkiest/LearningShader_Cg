@@ -43,3 +43,6 @@ https://user-images.githubusercontent.com/66341676/202832312-f98c9053-11c4-443b-
 ### Using Stencil Buffer to make an object visible only from one side  
 https://user-images.githubusercontent.com/66341676/202835166-b843a468-becf-4efa-9f0d-5fe572e79f05.mp4  
   
+### Color blending on a plane using Vertex Shader  
+![タイトルなし](https://user-images.githubusercontent.com/66341676/202889936-e872f4ff-4f51-4a47-8f0b-ce5011461e32.png)  
+  
