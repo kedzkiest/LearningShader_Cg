@@ -46,3 +46,6 @@ https://user-images.githubusercontent.com/66341676/202835166-b843a468-becf-4efa-
 ### Color blending on a plane using Vertex Shader  
 ![タイトルなし](https://user-images.githubusercontent.com/66341676/202889936-e872f4ff-4f51-4a47-8f0b-ce5011461e32.png)  
   
+### Combination of vertex and surface shaders (vertex extrusion)
+https://user-images.githubusercontent.com/66341676/203459308-3950d9c2-93c6-4726-af19-bcce7e0d505e.mp4  
+  
