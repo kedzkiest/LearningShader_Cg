@@ -49,3 +49,6 @@ https://user-images.githubusercontent.com/66341676/202835166-b843a468-becf-4efa-
 ### Combination of vertex and surface shaders (vertex extrusion)
 https://user-images.githubusercontent.com/66341676/203459308-3950d9c2-93c6-4726-af19-bcce7e0d505e.mp4  
   
+### Two different types of outlining  
+https://user-images.githubusercontent.com/66341676/204073918-bde9e19f-ad3f-48e3-a7a7-fe6858e602d1.mp4  
+  
