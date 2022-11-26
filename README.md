@@ -52,3 +52,6 @@ https://user-images.githubusercontent.com/66341676/203459308-3950d9c2-93c6-4726-
 ### Two different types of outlining  
 https://user-images.githubusercontent.com/66341676/204073918-bde9e19f-ad3f-48e3-a7a7-fe6858e602d1.mp4  
   
+### Distortion effect by glass  
+https://user-images.githubusercontent.com/66341676/204075737-d8450ee5-06e6-4b56-8e38-a8717caa60e4.mp4  
+  
