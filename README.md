@@ -61,3 +61,6 @@ https://user-images.githubusercontent.com/66341676/204117608-f29b8f02-951a-4516-
 ### UV scrolling  
 https://user-images.githubusercontent.com/66341676/204118200-637f7a0f-ebee-4924-96c0-f397cc1c5e47.mp4  
   
+### Plasma effect  
+https://user-images.githubusercontent.com/66341676/204182007-4ca0aa47-75ab-4e5d-af8d-156b213b2d02.mp4  
+  
